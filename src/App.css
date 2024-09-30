@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #f0f3f0; /* Custom background color */
+}
+
+.container-fluid {
+  /* max-width: 1100px;  */
+  max-width: 100%;/* Adjust this based on your laptop screen size */
+}
+.shadow-container {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  padding: 10px; /* Adds some padding inside the container */
+  background-color: #fff; /* Optional: sets background color to white */
+  border-radius: 10px; /* Optional: rounds the corners slightly */
+}
